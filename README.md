@@ -8,7 +8,7 @@ cd $ANDROID_ROOT
 rm -rf hybris/mer-kernel-check
 ```
 ```bash
-git clone -b hybris-16.0-kernel-4.4 https://github.com/Linux-On-Whyred/mer-kernel-check hybris/mer-kernel-check
+git clone -b <branch> https://github.com/Linux-On-Whyred/mer-kernel-check $ANDROID_ROOT/hybris/mer-kernel-check
 ```
 ```bash
 cd $ANDROID_ROOT
