@@ -1,4 +1,5 @@
 # mer-kernel-check
+## Branch hybris-16.0-msm8998 for sdm636/sdm660/msm8998
 
 ```bash
 cd $ANDROID_ROOT
